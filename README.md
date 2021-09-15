@@ -1,4 +1,3 @@
 # near-dup-parser
-Holds code for near-duplicate image parser using optimized image classifiers, LSH, and Random Projection. More documentation will be added soon. 
-
-Respective Keras PR: https://github.com/keras-team/keras-io/pull/630.
+Holds code for building a near-duplicate image parser using optimized image classifiers, Locality Sensitive Hashing, and Random Projection. You can find
+the accompanying blog post on keras.io: https://keras.io/examples/keras_recipes/near_dup_search. 
